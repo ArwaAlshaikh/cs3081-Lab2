@@ -16,3 +16,6 @@ This repository contains my solutions for AI Lab 2.
 ## Notes
 
 All tasks were implemented using propositional logic and model checking.
+
+Course: Artificial Intelligence  
+Student: Arwa Alshaikh
